@@ -1,4 +1,3 @@
-import { act } from "react-dom/test-utils";
 import { FETCH_WEATHER } from "../actions";
 
 export default function (state = [], action) {

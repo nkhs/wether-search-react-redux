@@ -1,5 +1,4 @@
-import React, { Component } from 'react'
-import { connect } from 'react-redux'
+import React from 'react'
 import { Sparklines, SparklinesLine, SparklinesReferenceLine } from 'react-sparklines';
 import _ from 'lodash'
 function average(data) {
