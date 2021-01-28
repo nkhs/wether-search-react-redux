@@ -1,6 +1,6 @@
 # Wether Search App using React.js, Redux
 
-![alt text](https://github.com/nkhs/contribute-graph-editor/blob/master/doc/screen.png?raw=true)
+![alt text](https://github.com/nkhs/wether-search-react-redux/blob/master/doc/screen.png?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
